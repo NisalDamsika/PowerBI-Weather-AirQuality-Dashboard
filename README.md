@@ -17,18 +17,18 @@
 ## 📸 Dashboard Preview
 
 <div align="center">
-  <img src="assets/dashboard_preview_blue.png" alt="Weather Dashboard Preview" width="900"/>
-  <p><em>Live Weather & Air Quality Dashboard — Dark Mode</em></p>
+  <img src="assets/dashboard_preview_orange.png" alt="Weather Dashboard Preview" width="900"/>
+  <p><em>Live Weather & Air Quality Dashboard — Orange Theme </em></p>
 </div>
 
 <div align="center">
-  <img src="assets/dashboard_preview_orange.png" alt="Weather Dashboard Preview" width="900"/>
-  <p><em>Live Weather & Air Quality Dashboard — Dark Mode</em></p>
+  <img src="assets/dashboard_preview_blue.png" alt="Weather Dashboard Preview" width="900"/>
+  <p><em>Live Weather & Air Quality Dashboard — Blue Theme</em></p>
 </div>
 
 <div align="center">
   <img src="assets/dashboard_preview_purple.png" alt="Weather Dashboard Preview" width="900"/>
-  <p><em>Live Weather & Air Quality Dashboard — Dark Mode</em></p>
+  <p><em>Live Weather & Air Quality Dashboard — Purple Theme</em></p>
 </div>
 ---
 
