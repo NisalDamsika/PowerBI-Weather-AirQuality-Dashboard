@@ -17,10 +17,19 @@
 ## 📸 Dashboard Preview
 
 <div align="center">
-  <img src="assets/dashboard_preview.png" alt="Weather Dashboard Preview" width="900"/>
+  <img src="assets/dashboard_preview_blue.png" alt="Weather Dashboard Preview" width="900"/>
   <p><em>Live Weather & Air Quality Dashboard — Dark Mode</em></p>
 </div>
 
+<div align="center">
+  <img src="assets/dashboard_preview_orange.png" alt="Weather Dashboard Preview" width="900"/>
+  <p><em>Live Weather & Air Quality Dashboard — Dark Mode</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/dashboard_preview_purple.png" alt="Weather Dashboard Preview" width="900"/>
+  <p><em>Live Weather & Air Quality Dashboard — Dark Mode</em></p>
+</div>
 ---
 
 ## 📌 Project Overview
